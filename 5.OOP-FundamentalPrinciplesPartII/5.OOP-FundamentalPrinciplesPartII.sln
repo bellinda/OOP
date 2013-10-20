@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.Shapes", "1.Shapes\1.Shapes.csproj", "{B309745A-8557-4DAE-A684-E98A4A978C27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.Bank", "2.Bank\2.Bank.csproj", "{2954D1BA-78EA-48BE-B2F3-391D2A564D1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.InvalidRangeException", "3.InvalidRangeException\3.InvalidRangeException.csproj", "{2C84CA0F-99FF-495B-A9E3-E0D9B71F414A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B309745A-8557-4DAE-A684-E98A4A978C27}.Debug|x86.ActiveCfg = Debug|x86
+		{B309745A-8557-4DAE-A684-E98A4A978C27}.Debug|x86.Build.0 = Debug|x86
+		{B309745A-8557-4DAE-A684-E98A4A978C27}.Release|x86.ActiveCfg = Release|x86
+		{B309745A-8557-4DAE-A684-E98A4A978C27}.Release|x86.Build.0 = Release|x86
+		{2954D1BA-78EA-48BE-B2F3-391D2A564D1A}.Debug|x86.ActiveCfg = Debug|x86
+		{2954D1BA-78EA-48BE-B2F3-391D2A564D1A}.Debug|x86.Build.0 = Debug|x86
+		{2954D1BA-78EA-48BE-B2F3-391D2A564D1A}.Release|x86.ActiveCfg = Release|x86
+		{2954D1BA-78EA-48BE-B2F3-391D2A564D1A}.Release|x86.Build.0 = Release|x86
+		{2C84CA0F-99FF-495B-A9E3-E0D9B71F414A}.Debug|x86.ActiveCfg = Debug|x86
+		{2C84CA0F-99FF-495B-A9E3-E0D9B71F414A}.Debug|x86.Build.0 = Debug|x86
+		{2C84CA0F-99FF-495B-A9E3-E0D9B71F414A}.Release|x86.ActiveCfg = Release|x86
+		{2C84CA0F-99FF-495B-A9E3-E0D9B71F414A}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
