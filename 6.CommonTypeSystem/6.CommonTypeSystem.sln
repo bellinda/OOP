@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.CompareStudents", "1.CompareStudents\1.CompareStudents.csproj", "{1246AD65-443B-40E5-AE90-09860FA156F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.PersonWithToString", "2.PersonWithToString\2.PersonWithToString.csproj", "{CFAED254-4184-4A89-92E3-DEF645A9E057}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.BitArray", "3.BitArray\3.BitArray.csproj", "{5369E5C4-DF34-43C5-8F7B-B612D5907415}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.BinarySearchTree", "4.BinarySearchTree\4.BinarySearchTree.csproj", "{C3488AD7-2B58-4064-AB42-B3C69610E52B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1246AD65-443B-40E5-AE90-09860FA156F3}.Debug|x86.ActiveCfg = Debug|x86
+		{1246AD65-443B-40E5-AE90-09860FA156F3}.Debug|x86.Build.0 = Debug|x86
+		{1246AD65-443B-40E5-AE90-09860FA156F3}.Release|x86.ActiveCfg = Release|x86
+		{1246AD65-443B-40E5-AE90-09860FA156F3}.Release|x86.Build.0 = Release|x86
+		{CFAED254-4184-4A89-92E3-DEF645A9E057}.Debug|x86.ActiveCfg = Debug|x86
+		{CFAED254-4184-4A89-92E3-DEF645A9E057}.Debug|x86.Build.0 = Debug|x86
+		{CFAED254-4184-4A89-92E3-DEF645A9E057}.Release|x86.ActiveCfg = Release|x86
+		{CFAED254-4184-4A89-92E3-DEF645A9E057}.Release|x86.Build.0 = Release|x86
+		{5369E5C4-DF34-43C5-8F7B-B612D5907415}.Debug|x86.ActiveCfg = Debug|x86
+		{5369E5C4-DF34-43C5-8F7B-B612D5907415}.Debug|x86.Build.0 = Debug|x86
+		{5369E5C4-DF34-43C5-8F7B-B612D5907415}.Release|x86.ActiveCfg = Release|x86
+		{5369E5C4-DF34-43C5-8F7B-B612D5907415}.Release|x86.Build.0 = Release|x86
+		{C3488AD7-2B58-4064-AB42-B3C69610E52B}.Debug|x86.ActiveCfg = Debug|x86
+		{C3488AD7-2B58-4064-AB42-B3C69610E52B}.Debug|x86.Build.0 = Debug|x86
+		{C3488AD7-2B58-4064-AB42-B3C69610E52B}.Release|x86.ActiveCfg = Release|x86
+		{C3488AD7-2B58-4064-AB42-B3C69610E52B}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
